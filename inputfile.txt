@@ -1,0 +1,38 @@
+gcd(a,b){
+
+  t = b;
+
+  b = a % b;
+
+  if(b == 0){
+
+    return t;
+
+  } else {
+
+    return gcd(t,b);
+
+  }
+
+}
+
+factorial( n ){
+
+  if(n <1){
+
+    return 1;
+
+  }else{
+
+    return n * factorial( n - 1 );
+
+  }
+
+}
+
+{
+
+  print(gcd(32,18));
+  print(factorial(3));
+
+}

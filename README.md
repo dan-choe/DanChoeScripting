@@ -18,7 +18,7 @@ It requires to install PLY and Python 3.0+
 
 ### Screenshots
 
-![screenshot1](https://github.com/dan-choe/LinuxShell/blob/master/screenshot.png "DanChoeScripting")
+![screenshot1](https://github.com/dan-choe/DanChoeScripting/blob/master/screenshot.PNG "DanChoeScripting")
 
 ## License
 Copyright [2018] [Dan Choe](https://github.com/dan-choe)
